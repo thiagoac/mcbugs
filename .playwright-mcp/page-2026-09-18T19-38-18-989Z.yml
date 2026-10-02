@@ -1,0 +1,42 @@
+- generic [ref=f1e20]:
+  - generic [ref=f1e21]:
+    - img "Hamburgers" [ref=f1e22]
+    - button [ref=f1e23] [cursor=pointer]
+  - generic [ref=f1e25]:
+    - generic [ref=f1e27]:
+      - img "McBugs Logo" [ref=f1e29]
+      - generic [ref=f1e30]: McBugs
+    - paragraph [ref=f1e31]: O fast food favorito da comunidade de QAs 🐛
+    - generic [ref=f1e32]: Aberto!
+  - generic [ref=f1e39]:
+    - button "🍔 Lanches" [ref=f1e40] [cursor=pointer]:
+      - generic [ref=f1e41]: 🍔
+      - generic [ref=f1e42]: Lanches
+    - button "🍟 Fritas" [active] [ref=f1e43] [cursor=pointer]:
+      - generic [ref=f1e44]: 🍟
+      - generic [ref=f1e45]: Fritas
+    - button "🥤 Bebidas" [ref=f1e46] [cursor=pointer]:
+      - generic [ref=f1e47]: 🥤
+      - generic [ref=f1e48]: Bebidas
+    - button "🍦 Sobremesas" [ref=f1e49] [cursor=pointer]:
+      - generic [ref=f1e50]: 🍦
+      - generic [ref=f1e51]: Sobremesas
+  - generic [ref=f1e53]:
+    - button [ref=f1e82] [cursor=pointer]:
+      - img "Batatas Full Stack" [ref=f1e84]
+      - generic [ref=f1e85]:
+        - heading "Batatas Full Stack" [level=3] [ref=f1e86]
+        - paragraph [ref=f1e87]: Uma porção gigante de batatas fritas crocantes, perfeitas para compartilhar ou devorar sozinho!
+        - paragraph [ref=f1e88]: R$ 10,90
+    - button [ref=f1e89] [cursor=pointer]:
+      - img "Batatas Refatoradas" [ref=f1e91]
+      - generic [ref=f1e92]:
+        - heading "Batatas Refatoradas" [level=3] [ref=f1e93]
+        - paragraph [ref=f1e94]: Batatas médias cortadas em palitos, fritas até ficarem douradas e crocantes por fora, macias por dentro.
+        - paragraph [ref=f1e95]: R$ 9,90
+    - button [ref=f1e96] [cursor=pointer]:
+      - img "Batatas Minificadas" [ref=f1e98]
+      - generic [ref=f1e99]:
+        - heading "Batatas Minificadas" [level=3] [ref=f1e100]
+        - paragraph [ref=f1e101]: Uma porção pequena e rápida de batatas fritas. Ideal para um lanchinho rápido!
+        - paragraph [ref=f1e102]: R$ 5,90

@@ -1,0 +1,24 @@
+- generic [ref=f1e226]:
+  - generic [ref=f1e227]:
+    - img "Fanta Warning" [ref=f1e228]
+    - button [ref=f1e229] [cursor=pointer]
+    - button "1" [ref=f1e230] [cursor=pointer]
+  - generic [ref=f1e233]:
+    - generic [ref=f1e234]:
+      - img "McBugs Logo" [ref=f1e236]
+      - generic [ref=f1e237]: McBugs
+    - heading "Fanta Warning" [level=1] [ref=f1e238]
+    - generic [ref=f1e239]:
+      - paragraph [ref=f1e240]: R$ 5,90
+      - generic [ref=f1e241]:
+        - button [disabled]
+        - generic [ref=f1e242]: "1"
+        - button [ref=f1e243] [cursor=pointer]
+    - generic [ref=f1e244]:
+      - heading "Sobre" [level=2] [ref=f1e245]
+      - paragraph [ref=f1e246]: Refrigerante sabor laranja, refrescante e cheio de sabor.
+    - generic [ref=f1e247]:
+      - heading "Ingredientes" [level=2] [ref=f1e251]
+      - list [ref=f1e252]:
+        - listitem [ref=f1e253]: Refrigerante de laranja 500ml
+  - button "Quero • R$ 5,90" [ref=f1e256] [cursor=pointer]

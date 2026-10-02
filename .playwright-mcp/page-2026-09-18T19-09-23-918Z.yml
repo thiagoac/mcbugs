@@ -1,0 +1,49 @@
+- generic [ref=e123]:
+  - generic [ref=e124]:
+    - img "Hamburgers" [ref=e125]
+    - button [ref=e126] [cursor=pointer]
+  - generic [ref=e128]:
+    - generic [ref=e130]:
+      - img "McBugs Logo" [ref=e132]
+      - generic [ref=e133]: McBugs
+    - paragraph [ref=e134]: O fast food favorito da comunidade de QAs 🐛
+    - generic [ref=e135]: Aberto!
+  - generic [ref=e142]:
+    - button "🍔 Lanches" [ref=e143] [cursor=pointer]:
+      - generic [ref=e144]: 🍔
+      - generic [ref=e145]: Lanches
+    - button "🍟 Fritas" [ref=e146] [cursor=pointer]:
+      - generic [ref=e147]: 🍟
+      - generic [ref=e148]: Fritas
+    - button "🥤 Bebidas" [active] [ref=e149] [cursor=pointer]:
+      - generic [ref=e150]: 🥤
+      - generic [ref=e151]: Bebidas
+    - button "🍦 Sobremesas" [ref=e152] [cursor=pointer]:
+      - generic [ref=e153]: 🍦
+      - generic [ref=e154]: Sobremesas
+  - generic [ref=e156]:
+    - button [ref=e194] [cursor=pointer]:
+      - img "Coca-Crash" [ref=e196]
+      - generic [ref=e197]:
+        - heading "Coca-Crash" [level=3] [ref=e198]
+        - paragraph [ref=e199]: Refrigerante de cola gelado, perfeito para acompanhar seu lanche favorito.
+        - paragraph [ref=e200]: R$ 5,90
+    - button [ref=e201] [cursor=pointer]:
+      - img "Fanta Warning" [ref=e203]
+      - generic [ref=e204]:
+        - heading "Fanta Warning" [level=3] [ref=e205]
+        - paragraph [ref=e206]: Refrigerante sabor laranja, refrescante e cheio de sabor.
+        - paragraph [ref=e207]: R$ 5,90
+    - button [ref=e208] [cursor=pointer]:
+      - img "Água Localhost" [ref=e210]
+      - generic [ref=e211]:
+        - heading "Água Localhost" [level=3] [ref=e212]
+        - paragraph [ref=e213]: Água mineral pura e refrescante. Hidratação essencial!
+        - paragraph [ref=e214]: R$ 2,90
+  - generic [ref=e187]:
+    - generic [ref=e188]:
+      - paragraph [ref=e189]: Total dos pedidos
+      - generic [ref=e190]:
+        - generic [ref=e191]: R$ 79,80
+        - generic [ref=e192]: / 2 itens
+    - button "Ver pedido" [ref=e193] [cursor=pointer]

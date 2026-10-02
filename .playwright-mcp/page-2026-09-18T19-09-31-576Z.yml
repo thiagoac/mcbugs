@@ -1,0 +1,24 @@
+- generic [ref=e215]:
+  - generic [ref=e216]:
+    - img "Coca-Crash" [ref=e217]
+    - button [ref=e218] [cursor=pointer]
+    - button "2" [ref=e219] [cursor=pointer]
+  - generic [ref=e222]:
+    - generic [ref=e223]:
+      - img "McBugs Logo" [ref=e225]
+      - generic [ref=e226]: McBugs
+    - heading "Coca-Crash" [level=1] [ref=e227]
+    - generic [ref=e228]:
+      - paragraph [ref=e229]: R$ 5,90
+      - generic [ref=e230]:
+        - button [disabled]
+        - generic [ref=e231]: "1"
+        - button [ref=e232] [cursor=pointer]
+    - generic [ref=e233]:
+      - heading "Sobre" [level=2] [ref=e234]
+      - paragraph [ref=e235]: Refrigerante de cola gelado, perfeito para acompanhar seu lanche favorito.
+    - generic [ref=e236]:
+      - heading "Ingredientes" [level=2] [ref=e240]
+      - list [ref=e241]:
+        - listitem [ref=e242]: Refrigerante de cola 500ml
+  - button "Quero • R$ 5,90" [ref=e245] [cursor=pointer]

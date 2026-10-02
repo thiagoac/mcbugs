@@ -1,0 +1,34 @@
+- generic [ref=e317]:
+  - generic [ref=e318]:
+    - generic [ref=e319]:
+      - button [ref=e320] [cursor=pointer]
+      - heading "Meu pedido" [level=1] [ref=e321]
+    - generic [ref=e322]:
+      - generic [ref=e323]:
+        - img "Big Mock" [ref=e325]
+        - generic [ref=e326]:
+          - generic [ref=e327]:
+            - heading "Big Mock" [level=3] [ref=e328]
+            - button [ref=e329] [cursor=pointer]
+          - paragraph [ref=e330]: R$ 79,80
+          - generic [ref=e331]:
+            - button [ref=e332] [cursor=pointer]
+            - generic [ref=e333]: "2"
+            - button [ref=e334] [cursor=pointer]
+      - generic [ref=e335]:
+        - img "Coca-Crash" [ref=e337]
+        - generic [ref=e338]:
+          - generic [ref=e339]:
+            - heading "Coca-Crash" [level=3] [ref=e340]
+            - button [ref=e341] [cursor=pointer]
+          - paragraph [ref=e342]: R$ 5,90
+          - generic [ref=e343]:
+            - button [disabled]
+            - generic [ref=e344]: "1"
+            - button [ref=e345] [cursor=pointer]
+    - generic [ref=e347]:
+      - generic [ref=e348]: Total do pedido
+      - generic [ref=e349]: R$ 85,70
+  - generic [ref=e350]:
+    - button "Finalizar pedido" [ref=e351] [cursor=pointer]
+    - button "Continuar comprando" [ref=e352] [cursor=pointer]

@@ -1,0 +1,55 @@
+- generic [ref=f1e259]:
+  - generic [ref=f1e260]:
+    - img "Hamburgers" [ref=f1e261]
+    - button [ref=f1e262] [cursor=pointer]
+  - generic [ref=f1e264]:
+    - generic [ref=f1e266]:
+      - img "McBugs Logo" [ref=f1e268]
+      - generic [ref=f1e269]: McBugs
+    - paragraph [ref=f1e270]: O fast food favorito da comunidade de QAs 🐛
+    - generic [ref=f1e271]: Aberto!
+  - generic [ref=f1e278]:
+    - button "🍔 Lanches" [ref=f1e279] [cursor=pointer]:
+      - generic [ref=f1e280]: 🍔
+      - generic [ref=f1e281]: Lanches
+    - button "🍟 Fritas" [ref=f1e282] [cursor=pointer]:
+      - generic [ref=f1e283]: 🍟
+      - generic [ref=f1e284]: Fritas
+    - button "🥤 Bebidas" [ref=f1e285] [cursor=pointer]:
+      - generic [ref=f1e286]: 🥤
+      - generic [ref=f1e287]: Bebidas
+    - button "🍦 Sobremesas" [ref=f1e288] [cursor=pointer]:
+      - generic [ref=f1e289]: 🍦
+      - generic [ref=f1e290]: Sobremesas
+  - generic [ref=f1e292]:
+    - button [ref=f1e293] [cursor=pointer]:
+      - img "Big Mock" [ref=f1e295]
+      - generic [ref=f1e296]:
+        - heading "Big Mock" [level=3] [ref=f1e297]
+        - paragraph [ref=f1e298]: Quatro camadas de pão, dois hambúrgueres de carne bovina, alface, queijo derretido, molho especial, cebola e pão com gergelim.
+        - paragraph [ref=f1e299]: R$ 39,90
+    - button [ref=f1e300] [cursor=pointer]:
+      - img "Duplo Deploy" [ref=f1e302]
+      - generic [ref=f1e303]:
+        - heading "Duplo Deploy" [level=3] [ref=f1e304]
+        - paragraph [ref=f1e305]: Dois suculentos hambúrgueres de carne, maionese cremosa, cebola crispy, fatias de bacon e queijo cheddar derretido no pão brioche.
+        - paragraph [ref=f1e306]: R$ 41,50
+    - button [ref=f1e307] [cursor=pointer]:
+      - img "McMerge" [ref=f1e309]
+      - generic [ref=f1e310]:
+        - heading "McMerge" [level=3] [ref=f1e311]
+        - paragraph [ref=f1e312]: Pão brioche, molho barbecue picante, bacon crocante, alface fresquinha e queijo mussarela derretido.
+        - paragraph [ref=f1e313]: R$ 39,90
+    - button [ref=f1e314] [cursor=pointer]:
+      - img "McNífico Flaky" [ref=f1e316]
+      - generic [ref=f1e317]:
+        - heading "McNífico Flaky" [level=3] [ref=f1e318]
+        - paragraph [ref=f1e319]: Um hambúrguer de carne bovina, com molho de tomate temperado, queijo, e cebola caramelizada.
+        - paragraph [ref=f1e320]: R$ 36,20
+  - generic [ref=f1e323]:
+    - generic [ref=f1e324]:
+      - paragraph [ref=f1e325]: Total dos pedidos
+      - generic [ref=f1e326]:
+        - generic [ref=f1e327]: R$ 28,60
+        - generic [ref=f1e328]: / 4 itens
+    - button "Ver pedido" [ref=f1e329] [cursor=pointer]

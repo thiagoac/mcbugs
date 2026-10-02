@@ -1,0 +1,34 @@
+- generic [ref=f1e330]:
+  - generic [ref=f1e331]:
+    - generic [ref=f1e332]:
+      - button [ref=f1e333] [cursor=pointer]
+      - heading "Meu pedido" [level=1] [ref=f1e334]
+    - generic [ref=f1e335]:
+      - generic [ref=f1e336]:
+        - img "Batatas Full Stack" [ref=f1e338]
+        - generic [ref=f1e339]:
+          - generic [ref=f1e340]:
+            - heading "Batatas Full Stack" [level=3] [ref=f1e341]
+            - button [ref=f1e342] [cursor=pointer]
+          - paragraph [ref=f1e343]: R$ 10,90
+          - generic [ref=f1e344]:
+            - button [disabled]
+            - generic [ref=f1e345]: "1"
+            - button [ref=f1e346] [cursor=pointer]
+      - generic [ref=f1e347]:
+        - img "Fanta Warning" [ref=f1e349]
+        - generic [ref=f1e350]:
+          - generic [ref=f1e351]:
+            - heading "Fanta Warning" [level=3] [ref=f1e352]
+            - button [ref=f1e353] [cursor=pointer]
+          - paragraph [ref=f1e354]: R$ 17,70
+          - generic [ref=f1e355]:
+            - button [ref=f1e356] [cursor=pointer]
+            - generic [ref=f1e357]: "3"
+            - button [ref=f1e358] [cursor=pointer]
+    - generic [ref=f1e360]:
+      - generic [ref=f1e361]: Total do pedido
+      - generic [ref=f1e362]: R$ 28,60
+  - generic [ref=f1e363]:
+    - button "Finalizar pedido" [ref=f1e364] [cursor=pointer]
+    - button "Continuar comprando" [ref=f1e365] [cursor=pointer]

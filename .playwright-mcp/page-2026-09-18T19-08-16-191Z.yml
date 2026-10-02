@@ -1,0 +1,28 @@
+- generic [ref=e82]:
+  - generic [ref=e83]:
+    - img "Big Mock" [ref=e84]
+    - button [ref=e85] [cursor=pointer]
+  - generic [ref=e87]:
+    - generic [ref=e88]:
+      - img "McBugs Logo" [ref=e90]
+      - generic [ref=e91]: McBugs
+    - heading "Big Mock" [level=1] [ref=e92]
+    - generic [ref=e93]:
+      - paragraph [ref=e94]: R$ 39,90
+      - generic [ref=e95]:
+        - button [disabled]
+        - generic [ref=e96]: "1"
+        - button [ref=e97] [cursor=pointer]
+    - generic [ref=e98]:
+      - heading "Sobre" [level=2] [ref=e99]
+      - paragraph [ref=e100]: Quatro camadas de pão, dois hambúrgueres de carne bovina, alface, queijo derretido, molho especial, cebola e pão com gergelim.
+    - generic [ref=e101]:
+      - heading "Ingredientes" [level=2] [ref=e105]
+      - list [ref=e106]:
+        - listitem [ref=e107]: Pão com gergelim
+        - listitem [ref=e109]: Hambúrguer bovino (2x)
+        - listitem [ref=e111]: Alface
+        - listitem [ref=e113]: Queijo cheddar
+        - listitem [ref=e115]: Molho especial
+        - listitem [ref=e117]: Cebola
+  - button "Quero • R$ 39,90" [ref=e120] [cursor=pointer]

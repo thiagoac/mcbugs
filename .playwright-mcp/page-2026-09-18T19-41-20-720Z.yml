@@ -1,0 +1,42 @@
+- generic [ref=f1e425]:
+  - generic [ref=f1e426]:
+    - button [ref=f1e427] [cursor=pointer]
+    - generic [ref=f1e428]: Cartão de Crédito
+  - generic [ref=f1e432]:
+    - generic [ref=f1e434]:
+      - img "McBugs Logo" [ref=f1e436]
+      - generic [ref=f1e437]: McBugs
+    - generic [ref=f1e438]:
+      - generic [ref=f1e439]: Pedido
+      - generic [ref=f1e440]: "#3"
+    - generic [ref=f1e441]:
+      - generic [ref=f1e442]: Total do pedido
+      - generic [ref=f1e443]: R$ 39,50
+  - generic [ref=f1e449]:
+    - heading "Pagamento no Balcão" [level=3] [ref=f1e450]
+    - paragraph [ref=f1e451]: Dirija-se ao balcão para efetuar o pagamento com Cartão de Crédito
+  - generic [ref=f1e452]:
+    - heading "Detalhes do pedido" [level=3] [ref=f1e453]
+    - generic [ref=f1e454]:
+      - generic [ref=f1e455]:
+        - generic [ref=f1e456]: Cliente
+        - generic [ref=f1e457]: Maria Santos
+      - generic [ref=f1e458]:
+        - generic [ref=f1e459]: Tipo
+        - generic [ref=f1e460]: Para levar
+      - generic [ref=f1e461]:
+        - generic [ref=f1e462]: Forma de pagamento
+        - generic [ref=f1e463]: Cartão de Crédito
+      - generic [ref=f1e464]:
+        - generic [ref=f1e465]: Data
+        - generic [ref=f1e466]: 18/09/2026, 16:41
+    - generic [ref=f1e467]:
+      - heading "Itens" [level=4] [ref=f1e468]
+      - generic [ref=f1e469]:
+        - generic [ref=f1e470]:
+          - generic [ref=f1e471]: 2x Batatas Full Stack
+          - generic [ref=f1e472]: R$ 21,80
+        - generic [ref=f1e473]:
+          - generic [ref=f1e474]: 3x Fanta Warning
+          - generic [ref=f1e475]: R$ 17,70
+  - button "Fazer Novo Pedido" [ref=f1e476] [cursor=pointer]

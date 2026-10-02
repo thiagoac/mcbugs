@@ -1,0 +1,24 @@
+- generic [ref=f1e103]:
+  - generic [ref=f1e104]:
+    - img "Batatas Full Stack" [ref=f1e105]
+    - button [ref=f1e106] [cursor=pointer]
+  - generic [ref=f1e108]:
+    - generic [ref=f1e109]:
+      - img "McBugs Logo" [ref=f1e111]
+      - generic [ref=f1e112]: McBugs
+    - heading "Batatas Full Stack" [level=1] [ref=f1e113]
+    - generic [ref=f1e114]:
+      - paragraph [ref=f1e115]: R$ 10,90
+      - generic [ref=f1e116]:
+        - button [disabled]
+        - generic [ref=f1e117]: "1"
+        - button [ref=f1e118] [cursor=pointer]
+    - generic [ref=f1e119]:
+      - heading "Sobre" [level=2] [ref=f1e120]
+      - paragraph [ref=f1e121]: Uma porção gigante de batatas fritas crocantes, perfeitas para compartilhar ou devorar sozinho!
+    - generic [ref=f1e122]:
+      - heading "Ingredientes" [level=2] [ref=f1e126]
+      - list [ref=f1e127]:
+        - listitem [ref=f1e128]: Batatas selecionadas
+        - listitem [ref=f1e130]: Sal
+  - button "Quero • R$ 10,90" [ref=f1e133] [cursor=pointer]

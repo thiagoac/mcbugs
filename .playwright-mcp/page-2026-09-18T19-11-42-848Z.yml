@@ -1,0 +1,28 @@
+- generic [ref=e365]:
+  - generic [ref=e366]:
+    - generic [ref=e368]:
+      - img "McBugs Logo" [ref=e370]
+      - generic [ref=e371]: McBugs
+    - generic [ref=e372]:
+      - generic [ref=e373]: Pedido
+      - generic [ref=e374]: "#2"
+    - generic [ref=e375]:
+      - generic [ref=e376]: Total do pedido
+      - generic [ref=e377]: R$ 85,70
+  - generic [ref=e378]:
+    - heading "Escolha a forma de pagamento" [level=2] [ref=e379]
+    - paragraph [ref=e380]: Selecione como deseja pagar seu pedido
+    - generic [ref=e381]:
+      - button "PIX Pagamento no balcão na hora da retirada" [ref=e382] [cursor=pointer]:
+        - generic [ref=e390]:
+          - generic [ref=e391]: PIX
+          - paragraph [ref=e393]: Pagamento no balcão na hora da retirada
+      - button "Cartão de Débito Pagamento no balcão na hora da retirada" [ref=e394] [cursor=pointer]:
+        - generic [ref=e398]:
+          - generic [ref=e399]: Cartão de Débito
+          - paragraph [ref=e401]: Pagamento no balcão na hora da retirada
+      - button "Cartão de Crédito Pagamento no balcão na hora da retirada" [ref=e402] [cursor=pointer]:
+        - generic [ref=e406]:
+          - generic [ref=e407]: Cartão de Crédito
+          - paragraph [ref=e409]: Pagamento no balcão na hora da retirada
+  - button "Cancelar Pedido" [ref=e410] [cursor=pointer]

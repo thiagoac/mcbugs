@@ -1,0 +1,12 @@
+- generic [ref=f1e4]:
+  - img "McBugs Logo" [ref=f1e7]
+  - heading "McBugs" [level=1] [ref=f1e8]
+  - heading "Seja bem-vindo!" [level=2] [ref=f1e9]
+  - paragraph [ref=f1e10]: Escolha como prefere aproveitar sua refeição. Estamos aqui para oferecer praticidade e sabor em cada detalhe!
+  - generic [ref=f1e11]:
+    - button "Para comer aqui Para comer aqui" [ref=f1e12] [cursor=pointer]:
+      - img "Para comer aqui" [ref=f1e14]
+      - generic [ref=f1e15]: Para comer aqui
+    - button "Para levar Para levar" [ref=f1e16] [cursor=pointer]:
+      - img "Para levar" [ref=f1e18]
+      - generic [ref=f1e19]: Para levar

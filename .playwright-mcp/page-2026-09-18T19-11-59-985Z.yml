@@ -1,0 +1,43 @@
+- generic [ref=e411]:
+  - generic [ref=e412]:
+    - button [ref=e413] [cursor=pointer]
+    - generic [ref=e414]: PIX
+  - generic [ref=e422]:
+    - generic [ref=e424]:
+      - img "McBugs Logo" [ref=e426]
+      - generic [ref=e427]: McBugs
+    - generic [ref=e428]:
+      - generic [ref=e429]: Pedido
+      - generic [ref=e430]: "#2"
+    - generic [ref=e431]:
+      - generic [ref=e432]: Total do pedido
+      - generic [ref=e433]: R$ 85,70
+  - generic [ref=e443]:
+    - heading "Pagamento no Balcão" [level=3] [ref=e444]
+    - paragraph [ref=e445]: Dirija-se ao balcão para efetuar o pagamento com PIX
+  - generic [ref=e446]:
+    - heading "Detalhes do pedido" [level=3] [ref=e447]
+    - generic [ref=e448]:
+      - generic [ref=e449]:
+        - generic [ref=e450]: Cliente
+        - generic [ref=e451]: João Silva
+      - generic [ref=e452]:
+        - generic [ref=e453]: Tipo
+        - generic [ref=e454]: Comer no local
+      - generic [ref=e455]:
+        - generic [ref=e456]: Forma de pagamento
+        - generic [ref=e457]: PIX
+      - generic [ref=e458]:
+        - generic [ref=e459]: Data
+        - generic [ref=e460]: 18/09/2026, 16:11
+    - generic [ref=e461]:
+      - heading "Itens" [level=4] [ref=e462]
+      - generic [ref=e463]:
+        - generic [ref=e464]:
+          - generic [ref=e465]: 2x Big Mock
+          - generic [ref=e466]: R$ 79,80
+        - generic [ref=e467]:
+          - generic [ref=e468]: 1x Coca-Crash
+          - generic [ref=e469]: R$ 5,90
+  - paragraph [ref=e474]: Após o pagamento, aguarde ser chamado pelo número do seu pedido.
+  - button "Fazer Novo Pedido" [ref=e475] [cursor=pointer]

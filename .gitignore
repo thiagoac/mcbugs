@@ -27,3 +27,6 @@ dist-ssr
 dist
 
 .env
+
+# Docs
+docs/passwords/

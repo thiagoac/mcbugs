@@ -1,0 +1,47 @@
+- generic:
+  - generic [aria-hidden]:
+    - generic:
+      - generic:
+        - generic:
+          - button
+          - heading [level=1]: Meu pedido
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - heading [level=3]: Big Mock
+                - button
+              - paragraph: R$ 79,80
+              - generic:
+                - button
+                - generic: "2"
+                - button
+          - generic:
+            - generic:
+              - generic:
+                - heading [level=3]: Coca-Crash
+                - button
+              - paragraph: R$ 5,90
+              - generic:
+                - button [disabled]
+                - generic: "1"
+                - button
+        - generic:
+          - generic:
+            - generic: Total do pedido
+            - generic: R$ 85,70
+      - generic:
+        - button [active]: Finalizar pedido
+        - button: Continuar comprando
+  - dialog [ref=e354]:
+    - generic [ref=e356]:
+      - heading "Finalizar Pedido" [level=2] [ref=e357]
+      - paragraph [ref=e358]: Insira suas informações abaixo para finalizar o seu pedido.
+    - generic [ref=e359]:
+      - generic [ref=e360]:
+        - text: Seu nome
+        - textbox "Seu nome" [ref=e361]:
+          - /placeholder: Digite seu nome
+      - generic [ref=e362]:
+        - button "Cancelar" [ref=e363] [cursor=pointer]
+        - button "Finalizar" [ref=e364] [cursor=pointer]

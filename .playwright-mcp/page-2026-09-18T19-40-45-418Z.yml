@@ -1,0 +1,47 @@
+- generic:
+  - generic [aria-hidden]:
+    - generic:
+      - generic:
+        - generic:
+          - button
+          - heading [level=1]: Meu pedido
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - heading [level=3]: Batatas Full Stack
+                - button
+              - paragraph: R$ 21,80
+              - generic:
+                - button
+                - generic: "2"
+                - button
+          - generic:
+            - generic:
+              - generic:
+                - heading [level=3]: Fanta Warning
+                - button
+              - paragraph: R$ 17,70
+              - generic:
+                - button
+                - generic: "3"
+                - button
+        - generic:
+          - generic:
+            - generic: Total do pedido
+            - generic: R$ 39,50
+      - generic:
+        - button [active]: Finalizar pedido
+        - button: Continuar comprando
+  - dialog [ref=f1e368]:
+    - generic [ref=f1e370]:
+      - heading "Finalizar Pedido" [level=2] [ref=f1e371]
+      - paragraph [ref=f1e372]: Insira suas informações abaixo para finalizar o seu pedido.
+    - generic [ref=f1e373]:
+      - generic [ref=f1e374]:
+        - text: Seu nome
+        - textbox "Seu nome" [ref=f1e375]:
+          - /placeholder: Digite seu nome
+      - generic [ref=f1e376]:
+        - button "Cancelar" [ref=f1e377] [cursor=pointer]
+        - button "Finalizar" [ref=f1e378] [cursor=pointer]
